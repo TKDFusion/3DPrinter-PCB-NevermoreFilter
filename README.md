@@ -38,9 +38,7 @@ You can also use the included gerber files to order your own from a PCB manufact
 <br>
 
 ## Instructions
-- [Nevermore Max PCB](./Docs/Max.md)
-- [Nevermore Mini & Stealthmax PCB](./Docs/SM.md)
-- [Nevermore Stealthmax PCB 2](./Docs/SM2.md)
+[Docs](https://docs.isiks.tech/Nevermore/Controller/)
 
 ## YouTube
 
