@@ -1,3 +1,5 @@
+**[Click here for Stealthmax PCB 3 repo.](https://github.com/xbst/Stealthmax-PCB-3)**
+
 # Nevermore Mini, Max & Stealthmax PCBs
 | Nevermore Max 2 PCB | Nevermore Mini & Stealthmax PCB | Nevermore Stealthmax PCB 2|
 | --- | --- | --- |
